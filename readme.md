@@ -1,3 +1,1 @@
-## Hello Git!
-
-- I'm adding this from feature-branch
+## Hey, I'm developer-2, this is my branch "dev-2"
